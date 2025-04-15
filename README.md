@@ -1,2 +1,2 @@
 # git-practie
-this is a git practice projcet
+this is a git practice projcet.
